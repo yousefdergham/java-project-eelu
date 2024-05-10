@@ -81,7 +81,3 @@ To run the tests included in the project:
 ```
 mvn test
 ```
-
-## Contributing
-
-Contributions to this project are welcome. Please ensure that any pull requests or patches follow the existing code style and include appropriate tests.
